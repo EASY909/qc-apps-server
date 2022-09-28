@@ -1,4 +1,5 @@
 export type ICashType = {
+  id:number;
   text: string,
   url: string,
   type:number
